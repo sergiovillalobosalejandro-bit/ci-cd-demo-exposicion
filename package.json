@@ -1,0 +1,21 @@
+{
+  "name": "ci-cd-demo-exposicion",
+  "version": "1.0.0",
+  "description": "Demo de CI/CD con GitHub Actions y Railway",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "ci-cd",
+    "demo",
+    "github-actions",
+    "railway"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
